@@ -22,4 +22,4 @@ Screenshots -![ProPort1](https://user-images.githubusercontent.com/106890443/175
 ![ProPort2](https://user-images.githubusercontent.com/106890443/175454359-bfe83394-9a3c-464d-b72c-912c198251c4.png)
 
 
-URL - 
+URL - https://asotelo42.github.io/ProPortfolio/
